@@ -1,12 +1,15 @@
 # MECH 105 ALGORITHEMS
 
 FALSE POSITION (CALCULATE X INTERCEPT OF A FUNCTION)
-Find the zero
+
+* Find the zero
 
 MATRIX LU FACTORIZATION (UPPER AND LOWER DIAGONAL MATRACIES OF A SQUARE MATRIX)
-matrix multiplication/diagonalization
+
+* matrix multiplication/diagonalization
 
 SIMPSONS ONE THIRD (INTERGRAL ESTIMATION USING SIMPSONS RULE)
-area under a curve
+
+* Area under a curve
 
 
