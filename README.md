@@ -12,4 +12,8 @@ SIMPSONS ONE THIRD (INTERGRAL ESTIMATION USING SIMPSONS RULE)
 
 * Area under a curve
 
+LagrangePolynomial
+* line of best fit
 
+SpecialMatrix
+* Matrix of values = the row number and column number + above + left
